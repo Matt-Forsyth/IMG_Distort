@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Image Distortion Tool
+Comment=Apply random distortions to images for machine learning training
+Exec=/ur path/
+Icon=/ur path/
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
