@@ -2,8 +2,8 @@
 Version=1.0
 Name=Image Distortion Tool
 Comment=Apply random distortions to images for machine learning training
-Exec=/ur path/
-Icon=/ur path/
+Exec=python3 /ur path/IMG_Distort.py
+Icon=/ur path/icon.png
 Terminal=false
 Type=Application
 Categories=Graphics;Utility;
